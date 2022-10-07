@@ -1,4 +1,7 @@
 # snake_43class_image_clssification_using_CNN_VGG16
+model accuracy 47%
+
+test
 https://snake.suphachock.repl.co
 
 more
